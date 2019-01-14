@@ -1,4 +1,5 @@
-# Binaries for programs and plugins
+#
+#Binaries for programs and plugins
 *.exe
 *.exe~
 *.dll
@@ -11,4 +12,6 @@
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
 
+debug
+.vscode/
 vendor/
