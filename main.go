@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/keyzou/esilv-cloud/back/api"
+	"github.com/keyzou/esilv-cloud/api"
 )
 
 func main() {
